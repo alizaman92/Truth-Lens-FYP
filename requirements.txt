@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+opencv-python
+pillow
+nltk
+spacy
+matplotlib
+seaborn
+pytest
