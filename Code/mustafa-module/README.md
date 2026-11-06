@@ -3,13 +3,14 @@
 **Author:** Mustafa
 **Module:** Deepfake Video Module + UI
 
-## Overview
+### Overview
 This module covers deepfake video detection for the Truth-Lens-FYP project. I am also responsible for the project's User Interface (UI).
 
-## Responsibilities
+### Responsibilities
 - Deepfake video detection module
 - User Interface (UI)
 
-## Status
+### Status
 - [x] Folder structure created
 - [ ] Implementation in progress
+      
