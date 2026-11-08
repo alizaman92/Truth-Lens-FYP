@@ -7,7 +7,7 @@ Final Year Project, BS Artificial Intelligence, University of Central Punjab (UC
 ## Team
 - Ali Zaman (L1F23BSAI0042): Fake news module,Flask API UI,PDF report
 - M Mustafa (L1F23BSAI0103): Deepfake video module, UI
-- Zainab (L1F23BSAI0084): Scrum Master,image module, PDF report, history log
+- Zainab (L1F23BSAI0084): image module, PDF report, history log
 
 Supervisor: Mam Iqra Tariq
 
